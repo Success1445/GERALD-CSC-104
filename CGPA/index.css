@@ -1,0 +1,28 @@
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #d68f8f;
+  border-radius: 5px;
+  text-align: center;
+}
+
+input[type="text"], button {
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
+}
+
+button {
+  background-color: #060706;
+  color: rgb(31, 29, 29);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #070807;
+}
+
+  
